@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1716839777 source:/home/volkswagen2/Documentos/danilo-franco/FIR/FIR/main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<math.h>
+	"FIR.h"
+
+1716831369 /home/volkswagen2/Documentos/danilo-franco/FIR/FIR/FIR.h
+	<stdint.h>
+
